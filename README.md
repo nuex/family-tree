@@ -1,4 +1,4 @@
-family_tree
+family tree
 ===========
 
 Start of building a family tree in Prolog.
